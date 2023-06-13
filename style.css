@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=League+Spartan:wght@100;200;300&family=Oswald:wght@500&family=Poppins:ital,wght@0,100;0,200;0,300;0,500;1,300;1,400;1,500&family=Quicksand:wght@300&family=Raleway:wght@100;200&family=Roboto:wght@300&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+ 
+}
+
+body{
+    text-align: center;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    position: fixed;
+    width: 100%;
+}
